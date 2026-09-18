@@ -2,7 +2,7 @@
 
 Junior DevOps Engineer based in Tel Aviv, focused on cloud infrastructure, containers, and CI/CD automation.
 
-**Stack:** AWS (EC2, EKS, VPC, IAM) · Terraform · Kubernetes · Docker · GitHub Actions · Python
+**Stack:** AWS (EC2, EKS, VPC, IAM) · Terraform · Kubernetes · Docker · GitHub Actions · Python · Go 
 
 ## Projects
 
